@@ -65,7 +65,8 @@ more sub-spaces based on an attribute test condition, starting
 with the root node. After that, the procedure is repeated for 
 the subtree rooted at the new node, until all records in the
  training set have been processed.
- ![decision_tree](https://user-images.githubusercontent.com/56130865/163219356-2f5958c1-2a24-42a7-b069-f7375d98f5bf.png)
+![decision_tree](https://user-images.githubusercontent.com/56130865/163225206-d36d03fa-4cb6-413b-b706-de39bec8cb0a.png)
+
 ### Support Vector Machine
 
 The "Support Vector Machine" (SVM) is a supervised machine learning technique that can solve classification and regression problems. It is, however, mostly employed to solve categorization difficulties. Each data item is plotted as a point in n-dimensional space (where n is the number of features you have), with the value of each feature being the value of a certain coordinate in the SVM algorithm. Then we accomplish classification by locating the hyper-plane that clearly distinguishes the two classes.

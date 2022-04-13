@@ -5,7 +5,7 @@
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 
-# Credit-Card-Fraud-Detection
+# 💳Credit-Card-Fraud-Detection
 This is a machine learning project made on Credit Card Fraud Detection. The data is taken from Kaggle. Different classification machine learning algorithms have been applied to get the maximum accuracy.
 
 
@@ -13,11 +13,11 @@ This is a machine learning project made on Credit Card Fraud Detection. The data
 
 
 
-## About Project
+## 🚧About Project
 The purpose of the project is to make a machine learning model that will be able to detect whether the transaction made is fraud or genuine based upoen the given parameters.
 The parameters used to calculate the whether the class is fraud or genuine, we are not given any information regarding the features of the dataset in order to maintain the privacy of the user.
 
-## About The Dataset
+## 📈About The Dataset
 The dataset contains transactions made by credit cards in September 2013 by European cardholders.
 This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
@@ -83,3 +83,9 @@ The predictions from many models are combined in a voting ensemble. It can be us
 
 ## 🚀 About Me
 I'm a 3rd year B.Tech CSE student currently brushing up my skills on Python and Machine Learning.
+
+## 🌟References
+1️ https://www.analyticsvidhya.com/
+2️ https://towardsdatascience.com/
+3️ https://scikit-learn.org/stable/
+4️ https://pandas.pydata.org/docs/

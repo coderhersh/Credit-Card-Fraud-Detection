@@ -75,6 +75,8 @@ The "Support Vector Machine" (SVM) is a supervised machine learning technique th
 ### Ensemble Model
 A hard voting ensemble is used in classification to predict the class with the greatest votes by aggregating the votes for crisp class labels from other models. In a soft voting ensemble, the predicted probabilities for class labels are added up and the class label with the highest sum probability is predicted.
 The predictions from many models are combined in a voting ensemble. It can be used for regression or classification. In the case of regression, this entails taking the average of the models' predictions. When it comes to classification, the predictions for each label are added together, and the label with the most votes is chosen.
+
+
 ![majority_voting](https://user-images.githubusercontent.com/56130865/163222690-f0804689-01f3-4d34-9bf1-e456cf50068a.png)
 
 ## 📓 Authors

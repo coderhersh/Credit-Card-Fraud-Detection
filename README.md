@@ -13,6 +13,23 @@ This is a machine learning project made on Credit Card Fraud Detection. The data
 
 
 
+## Installation Guide
+
+Install Credit Card Fraud Detection Project with git command
+
+### Step - 1 Clone the github repository
+```bash
+    git clone https://github.com/coderhersh/Credit-Card-Fraud-Detection.git
+```
+### Step - 2 Install all required python packages
+``` bash
+    pip3 install pandas
+    pip3 install matplotlib
+    pip3 install sklearn
+```
+
+### Step - 3 
+    Open project.ipynb file on jupyter notebook either on Web Browser or on VS Code.
 ## Authors
 
 - [@coderhersh](https://github.com/coderhersh)

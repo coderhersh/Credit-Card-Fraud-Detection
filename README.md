@@ -65,14 +65,17 @@ more sub-spaces based on an attribute test condition, starting
 with the root node. After that, the procedure is repeated for 
 the subtree rooted at the new node, until all records in the
  training set have been processed.
- (https://user-images.githubusercontent.com/56130865/163219356-2f5958c1-2a24-42a7-b069-f7375d98f5bf.png)
-### Support Vector Machine![decision_tree]
+ ![decision_tree](https://user-images.githubusercontent.com/56130865/163219356-2f5958c1-2a24-42a7-b069-f7375d98f5bf.png)
+### Support Vector Machine
 
 The "Support Vector Machine" (SVM) is a supervised machine learning technique that can solve classification and regression problems. It is, however, mostly employed to solve categorization difficulties. Each data item is plotted as a point in n-dimensional space (where n is the number of features you have), with the value of each feature being the value of a certain coordinate in the SVM algorithm. Then we accomplish classification by locating the hyper-plane that clearly distinguishes the two classes.
+![SVM](https://user-images.githubusercontent.com/56130865/163222622-27106d44-f14f-478a-9660-24a281fcb302.png)
 
 ### Ensemble Model
 A hard voting ensemble is used in classification to predict the class with the greatest votes by aggregating the votes for crisp class labels from other models. In a soft voting ensemble, the predicted probabilities for class labels are added up and the class label with the highest sum probability is predicted.
 The predictions from many models are combined in a voting ensemble. It can be used for regression or classification. In the case of regression, this entails taking the average of the models' predictions. When it comes to classification, the predictions for each label are added together, and the label with the most votes is chosen.
+![majority_voting](https://user-images.githubusercontent.com/56130865/163222690-f0804689-01f3-4d34-9bf1-e456cf50068a.png)
+
 ## 📓 Authors
 
 - [@coderhersh](https://github.com/coderhersh)

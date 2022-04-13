@@ -42,9 +42,38 @@ Install Credit Card Fraud Detection Project with git command
     pip3 install sklearn
 ```
 
-### Step - 3 
+### Step - 3 Open the file
     Open project.ipynb file on jupyter notebook either on Web Browser or on VS Code.
-## Authors
+## Machine Learning Algorithms Used
+
+### Logistic Regression
+The method of modelling the probability of a discrete result given an input variable is known as logistic regression. The most frequent logistic regression models have a binary outcome, which might be true or false, yes or no, and so forth.
+Logistic regression is a handy analysis tool for determining if a fresh sample fits best into a category in classification tasks. Because components of cyber security, such as threat detection, are classification problems, logistic regression is a valuable analytic tool.
+
+![logistic-regression-example](https://user-images.githubusercontent.com/56130865/163219252-a8caf755-3eb7-47d4-be12-3767d75ebe12.jpg)
+
+### Decision Trees
+By constructing a decision tree, the decision tree 
+classifier builds the classification model. Each node 
+in the tree represents a test on an attribute, and each
+ branch descending from that node represents one of the
+  property's possible values. The training set's instances
+ are categorised by navigating them from the root of the tree
+  to a leaf, based on the results of the tests along the way.
+   Each node in the tree splits the instance space into two or
+more sub-spaces based on an attribute test condition, starting 
+with the root node. After that, the procedure is repeated for 
+the subtree rooted at the new node, until all records in the
+ training set have been processed.
+ (https://user-images.githubusercontent.com/56130865/163219356-2f5958c1-2a24-42a7-b069-f7375d98f5bf.png)
+### Support Vector Machine![decision_tree]
+
+The "Support Vector Machine" (SVM) is a supervised machine learning technique that can solve classification and regression problems. It is, however, mostly employed to solve categorization difficulties. Each data item is plotted as a point in n-dimensional space (where n is the number of features you have), with the value of each feature being the value of a certain coordinate in the SVM algorithm. Then we accomplish classification by locating the hyper-plane that clearly distinguishes the two classes.
+
+### Ensemble Model
+A hard voting ensemble is used in classification to predict the class with the greatest votes by aggregating the votes for crisp class labels from other models. In a soft voting ensemble, the predicted probabilities for class labels are added up and the class label with the highest sum probability is predicted.
+The predictions from many models are combined in a voting ensemble. It can be used for regression or classification. In the case of regression, this entails taking the average of the models' predictions. When it comes to classification, the predictions for each label are added together, and the label with the most votes is chosen.
+## 📓 Authors
 
 - [@coderhersh](https://github.com/coderhersh)
 

@@ -25,9 +25,9 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.
 
-## Dataset Link
+## 📈 Dataset Link
 🏠 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-## Installation Guide
+## ⬇️ Installation Guide
 
 Install Credit Card Fraud Detection Project with git command
 
@@ -44,7 +44,7 @@ Install Credit Card Fraud Detection Project with git command
 
 ### Step - 3 Open the file
     Open project.ipynb file on jupyter notebook either on Web Browser or on VS Code.
-## Machine Learning Algorithms Used
+## 🤖 Machine Learning Algorithms Used
 
 ### Logistic Regression
 The method of modelling the probability of a discrete result given an input variable is known as logistic regression. The most frequent logistic regression models have a binary outcome, which might be true or false, yes or no, and so forth.
@@ -85,7 +85,7 @@ The predictions from many models are combined in a voting ensemble. It can be us
 I'm a 3rd year B.Tech CSE student currently brushing up my skills on Python and Machine Learning.
 
 ## 🌟References
-1️ https://www.analyticsvidhya.com/
-2️ https://towardsdatascience.com/
-3️ https://scikit-learn.org/stable/
-4️ https://pandas.pydata.org/docs/
+1️⃣ https://www.analyticsvidhya.com/ <br/>
+2️⃣ https://towardsdatascience.com/ <br/>
+3️⃣ https://scikit-learn.org/stable/ <br/>
+4️⃣ https://pandas.pydata.org/docs/

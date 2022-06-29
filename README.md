@@ -92,7 +92,7 @@ The predictions from many models are combined in a voting ensemble. It can be us
 
 
 ## 🚀 About Me
-I'm a 3rd year B.Tech CSE student currently brushing up my skills on Python and Machine Learning.
+I'm a 4th year B.Tech CSE student currently brushing up my skills on Python and Machine Learning.
 
 ## 🌟References
 1️⃣ https://www.analyticsvidhya.com/ <br/>

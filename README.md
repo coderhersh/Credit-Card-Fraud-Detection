@@ -13,7 +13,7 @@
 
 
 # 💳Credit-Card-Fraud-Detection
-This is a machine learning project made on Credit Card Fraud Detection. The data is taken from Kaggle. Different classification machine learning algorithms have been applied to get the maximum accuracy.
+This is a machine learning project made on Credit Card Fraud Detection. The data is taken from Kaggle. Different classification machine learning algorithms have been applied to get the maximum accuracy. 
 
 
 
